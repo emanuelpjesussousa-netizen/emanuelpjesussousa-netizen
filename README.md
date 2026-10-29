@@ -2,7 +2,7 @@
 
 ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas no UniCEUB
 
-Sou estudante de ADS no UniCEUB e estou focado em aprender programação, desenvolvendo meus estudos e projetos na linguagem **Python**.
+Sou estudante de ADS no UniCEUB e estou focado em aprender programação, desenvolvendo os meus estudos e projetos na linguagem **Python**.
 
 ---
 
@@ -16,14 +16,14 @@ Sou estudante de ADS no UniCEUB e estou focado em aprender programação, desenv
 
 ### 📌 Sobre Mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no **UniCEUB**.
+- 🎓 A cursar **Análise e Desenvolvimento de Sistemas** no **UniCEUB**.
 - 🌱 Focado no aprendizado e prática contínua de **Python**.
-- 💬 Criando e organizando meus projetos acadêmicos e exercícios da faculdade aqui no GitHub.
+- 💬 A criar e organizar os meus projetos académicos e exercícios da faculdade aqui no GitHub.
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TEU_USERNAME&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emanuelpjesussousa-netizen&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="160" />
 </div>
