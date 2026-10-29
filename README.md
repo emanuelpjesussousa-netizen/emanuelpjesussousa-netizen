@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou o Emanuel de Jesus Sousa! 👋
 
-<!--
-**emanuelpjesussousa-netizen/emanuelpjesussousa-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudante de Análise e Desenvolvimento de Sistemas no UniCEUB
 
-Here are some ideas to get you started:
+Sou estudante de ADS no UniCEUB e estou focado em aprender programação, desenvolvendo meus estudos e projetos na linguagem **Python**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Linguagens e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📌 Sobre Mim
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no **UniCEUB**.
+- 🌱 Focado no aprendizado e prática contínua de **Python**.
+- 💬 Criando e organizando meus projetos acadêmicos e exercícios da faculdade aqui no GitHub.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TEU_USERNAME&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="160" />
+</div>
